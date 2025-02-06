@@ -2,7 +2,7 @@
 - 👀 I’m interested in state-of-the-art practices in Data Science, especially Ethical use of Data, AI and Algotrading
 - 🌱 I’m currently being inspired at University of Maryland, College Park (Go Terps!)
 - 💞️ Always looking for the next interesting story
-- 📫 How to reach me: lehai8595@gmail.com
+- 📫 How to reach me: mikele5895@gmail.com
 - ⚡ Fun fact: I function on great books and coffee!
 
 <!---
